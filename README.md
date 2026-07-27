@@ -100,14 +100,11 @@ Output in this exact format:
 **1. Home screen — upload resume & paste job description**
 ![Home screen with upload and job description panels](screenshots/home-screen.png)
 
-**2. Analysis results — match score & skills breakdown**
+**2. NLP Analysis results — match score & skills breakdown**
 ![Match score circular gauge and matched/missing skills](screenshots/analysis-results.png)
 
-**3. Analyze with AI / Analyze with NLP options**
-![AI and NLP analysis mode buttons](screenshots/analysis-modes.png)
-
-> 📌 Note: Add clear, full-resolution screenshots (a browser screenshot, not a phone photo of the screen) to a `/screenshots` folder in the repo, and make sure the file names above match what you upload.
-
+**3. Analyze with AI**
+![AI and NLP analysis mode buttons](screenshots/Ai-analysis.png)
 ## 🚀 How to Run Locally
 
 ### Prerequisites
