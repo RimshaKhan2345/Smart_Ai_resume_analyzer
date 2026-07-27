@@ -1,0 +1,6 @@
+streamlit
+PyPDF2
+nltk
+scikit-learn
+openai-agents
+python-dotenv

@@ -1,1 +1,0 @@
-# Smart_Ai_resume_analyzer
